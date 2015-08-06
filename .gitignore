@@ -18,3 +18,4 @@ stix_validator_service/
 taxii_service/
 threatgrid_service/
 totalhash_service/
+whois_service/
