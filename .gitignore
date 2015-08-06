@@ -1,3 +1,20 @@
 *.pyc
 *.swp
 *.swo
+
+#Exclude unused services
+OPSWAT_Service/
+anb_service/
+carver_service/
+clamd_service/
+cuckoo_service/
+machoinfo_service/
+opendns_service/
+passivetotal_service/
+pyew/
+pyinstaller_service/
+snugglefish_service/
+stix_validator_service/
+taxii_service/
+threatgrid_service/
+totalhash_service/
